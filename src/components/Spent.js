@@ -14,4 +14,4 @@ const Spent = () => {
     );
 };
 
-export default ExpenseTotal;
+export default Spent;
